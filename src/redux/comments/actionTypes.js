@@ -1,0 +1,4 @@
+export const GET_COMMENTS = "GET_COMMENTS";
+export const REQ_COMMENTS = "REQ_COMMENTS";
+export const SET_COMMENTS = "SET_COMMENTS";
+export const FAILED_COMMENTS = "FAILED_COMMENTS";
